@@ -1,0 +1,9 @@
+75f8e8697bd583cf50ce9351c5be3d91 *DESCRIPTION
+de8058d47ab1e0879b83ba4dfb31c3e1 *NAMESPACE
+3584849cfbd1963cbf72a598bf4a09b3 *NEWS.md
+2a064678ee8bb646dc8bd6f45ac01199 *R/new_unjoin.R
+ddcd4f633e6e03fba3b65b09391f1c80 *R/unjoin.r
+b4b4717e7c0680e3c5e874ebe3b4b929 *README.md
+a1e3af7563b1b8f24b41f2856734da31 *man/unjoin.Rd
+435210f116bfc7ad67be5b879dc15862 *tests/testthat.R
+b430a1bc83942d1d18c271f9c5eabd66 *tests/testthat/test-basic.R
