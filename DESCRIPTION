@@ -1,6 +1,6 @@
 Package: unjoin
 Title: Separate a Data Frame by Normalization
-Version: 0.0.4
+Version: 0.1.0
 Authors@R: c(person("Michael D.","Sumner", role = c("aut", "cre"), email = "mdsumner@gmail.com"), 
              person("Simon", "Wotherspoon", role = "ctb"),
              person("Hadley", "Wickham", role = "ctb", comment = "named the concept, provided excellent guidance via tidyr source code"))
@@ -15,17 +15,17 @@ License: GPL-3
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.0
-Imports: dplyr, rlang, tibble
+Imports: dplyr (>= 0.5.0), rlang, tibble
 Suggests: gapminder, tidyr, testthat, covr, spelling
 URL: https://github.com/hypertidy/unjoin
 BugReports: https://github.com/hypertidy/unjoin/issues
 Language: en-US
 NeedsCompilation: no
-Packaged: 2020-03-21 03:00:40 UTC; mdsumner
+Packaged: 2020-05-13 04:31:20 UTC; mdsumner
 Author: Michael D. Sumner [aut, cre],
   Simon Wotherspoon [ctb],
   Hadley Wickham [ctb] (named the concept, provided excellent guidance
     via tidyr source code)
 Maintainer: Michael D. Sumner <mdsumner@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-03-21 19:00:02 UTC
+Date/Publication: 2020-05-13 05:20:02 UTC
